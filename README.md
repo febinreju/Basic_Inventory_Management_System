@@ -24,14 +24,3 @@ No external libraries need to be installed.
 
 ---
 
-## Getting Started
-
-### Clone the Repository
-
-Start by cloning this repository or downloading the source code:
-
-```bash
-git clone https://github.com/yourusername/inventory-management-system.git
-cd inventory-management-system
-
-### python main.py
